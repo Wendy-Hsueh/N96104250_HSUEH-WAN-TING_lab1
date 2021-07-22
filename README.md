@@ -9,7 +9,7 @@ ReverseNumber.ipynb :
 Prompts the user to enter an integer and displays its reversal.
 
 RemoveOutliers.ipynb :
-Remove the most extreme values before performing other calculations.
+Remove the most extreme values before performing other calculations.\n
 A list with the n largest elements and the n smallest elements removed and a list of outliers.
 
 Nine_coins folder:
