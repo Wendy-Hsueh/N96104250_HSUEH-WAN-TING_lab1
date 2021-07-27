@@ -4,10 +4,12 @@
 
 > RockPaperScissors.ipynb 
 * A program to play Rock, Paper, Scissors game.
+
 ![image](https://github.com/Wendy-Hsueh/N96104250_HSUEH-WAN-TING_lab1/blob/main/RockPaperScissors_result.JPG)
 
 > ReverseNumber.ipynb 
 * Prompts the user to enter an integer and displays its reversal.
+
 ![image](https://github.com/Wendy-Hsueh/N96104250_HSUEH-WAN-TING_lab1/blob/main/ReverseNumber_result.JPG)
 
 > RemoveOutliers.ipynb 
