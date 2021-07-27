@@ -1,6 +1,6 @@
 # N96104250_HSUEH-WAN-TING_lab1
 
-* XXXXXX_result is the output of the program *
+*XXXXXX_result is the output of the program*
 
 * RockPaperScissors.ipynb 
   * A program to play Rock, Paper, Scissors game.
