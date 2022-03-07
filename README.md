@@ -1,4 +1,4 @@
-# N96104250_HSUEH-WAN-TING_lab1
+# Python exercise
 
 *XXXXXX_result is the output of the program*
 
